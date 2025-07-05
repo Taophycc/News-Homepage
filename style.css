@@ -190,6 +190,19 @@ main * {
   margin-top: 1em;
   width: 200px;
 }
+
+.attribution {
+  color: var(--Neutral-Very-dark-blue);
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.attribution a {
+  text-decoration: none;
+  color: var(--Primary-Soft-red);
+  font-weight: 700;
+}
+
 .hidden {
   display: none;
 }
@@ -323,6 +336,10 @@ main * {
 
   .article-details p {
     margin-right: 1em;
+  }
+
+   .attribution a:hover {
+    text-decoration: underline;
   }
 }
 
