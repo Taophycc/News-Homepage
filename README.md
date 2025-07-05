@@ -24,11 +24,13 @@ Users should be able to:
 ### Screenshot
 
 ![image](https://github.com/user-attachments/assets/58b890b9-a843-409c-b012-f1f0d3d04d4e)
+![image](https://github.com/user-attachments/assets/1c73e8d2-ff88-4c39-94bf-109521c7a904)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [taophycc.github.io](https://github.com/Taophycc/News-Homepage.git)
+- Live Site URL: [taophycc.github.io](https://taophycc.github.io/News-Homepage/)
 
 ## My process
 
