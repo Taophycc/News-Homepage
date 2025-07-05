@@ -248,7 +248,6 @@ main * {
   .menu-options h3:hover {
     color: var(--Primary-Soft-red);
     transition: all 0.1s ease-in-out;
-    text-decoration: underline;
   }
 
   .menu-btn,
